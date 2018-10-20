@@ -1,0 +1,42 @@
+[
+  {
+    "octaves": [4],
+    "instruments": ["piano"],
+    "feedback": true
+  },
+  {
+    "octaves": [4],
+    "instruments": ["piano"],
+    "feedback": false
+  },
+  {
+    "octaves": [3, 4, 5],
+    "instruments": ["piano"],
+    "feedback": true
+  },
+  {
+    "octaves": [3, 4, 5],
+    "instruments": ["piano"],
+    "feedback": false
+  },
+  {
+    "octaves": [4],
+    "instruments": ["piano", "violin", "woodwind"],
+    "feedback": true
+  },
+  {
+    "octaves": [4],
+    "instruments": ["piano", "violin", "woodwind"],
+    "feedback": false
+  },
+  {
+    "octaves": [3, 4, 5],
+    "instruments": ["piano", "violin", "woodwind"],
+    "feedback": true
+  },
+  {
+    "octaves": [3, 4, 5],
+    "instruments": ["piano", "violin", "woodwind"],
+    "feedback": false
+  }
+]
